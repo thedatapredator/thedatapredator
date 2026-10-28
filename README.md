@@ -18,7 +18,7 @@ Discord Bot Developer / Writer and a overall pain in the ass.
 - Open-Source Intelligence
 - Social Media Analysis & Pattern Recognition
 - Automation / Data Analysis
-- Bot Developer
+- Bot Development
 
 > stack --enumerate
 Frontend      :: HTML / CSS / JavaScript / Markdown / Python / C#
