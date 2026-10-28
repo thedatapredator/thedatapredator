@@ -5,8 +5,8 @@
 └──────────────────────────────────────────────────────────────┘
 
 > boot_sequence --init
-[✓] Identity ...................... Dexer データプレデター
-[✓] Handle ........................ DexerTDP
+[✓] Identity ...................... Dexer
+[✓] Handle ........................ thedatapredator
 [✓] OSINT modules ................ loaded
 [✓] Research Briefings ........ active
 [✓] Digital Presence ...... ready
@@ -18,6 +18,7 @@ Discord Bot Developer / Writer and a overall pain in the ass.
 - Open-Source Intelligence
 - Social Media Analysis & Pattern Recognition
 - Automation / Data Analysis
+- Bot Developer
 
 > stack --enumerate
 Frontend      :: HTML / CSS / JavaScript / Markdown / Python / C#
