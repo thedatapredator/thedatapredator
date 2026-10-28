@@ -1,7 +1,7 @@
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  DEXER :: TERMINAL INTERFACE                                 │
-│  HANDLE: thedatapredator                                            │
+│  HANDLE: thedatapredator                                     │
 └──────────────────────────────────────────────────────────────┘
 
 > boot_sequence --init
