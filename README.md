@@ -12,7 +12,7 @@
 [✓] Digital Presence ...... ready
 
 > whoami
-Discord Bot Developer / Writer and a overall pain in the ass.
+OSINT Researcher, Bot Developer and Writer.
 
 > specialization
 - Open-Source Intelligence
